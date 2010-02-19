@@ -1,0 +1,2 @@
+libusb0:
+  gentoo: =dev-libs/libusb-0*

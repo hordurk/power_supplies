@@ -1,0 +1,3 @@
+# Power supply should shut off when the battery backing it drops to this level
+float32 min_voltage
+---

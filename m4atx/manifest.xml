@@ -1,0 +1,19 @@
+<package>
+  <description brief="M4-ATX power supply support">
+
+     m4atx provides monitoring and configuration for the Mini-Box M4-ATX
+     power supply. It uses the m4api library from http://ram.umd.edu/.
+ 
+  </description>
+  <author>Ken Tossell/ktossell@umd.edu</author>
+  <license>LGPL</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/m4atx</url>
+  <depend package="roscpp"/>
+  <depend package="power_msgs"/>
+  <depend package="power_srvs"/>
+  <rosdep name="libusb0"/>
+
+</package>
+
+

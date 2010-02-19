@@ -1,0 +1,8 @@
+<stack>
+  <description brief="power_supplies">power_supplies</description>
+  <author>Maintained by </author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/power_supplies</url>
+
+</stack>

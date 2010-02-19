@@ -1,0 +1,16 @@
+<package>
+  <description brief="ctx2140">
+
+     ctx2140 provides power measurement and configuration setting facilities for
+     the Carnetix CNX-P2140 DC-DC power supply. It uses the ctxapi library, available
+     from http://ram.umd.edu/wiki/Public/Software/ctxapi
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ctx2140</url>
+
+</package>
+
+

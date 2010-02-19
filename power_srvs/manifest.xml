@@ -1,0 +1,14 @@
+<package>
+  <description brief="power_srvs">
+
+     power_srvs
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/power_srvs</url>
+
+</package>
+
+
