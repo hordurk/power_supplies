@@ -10,6 +10,10 @@
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/ctx2140</url>
+  <depend package="roscpp"/>
+  <depend package="power_msgs"/>
+  <depend package="power_srvs"/>
+  <rosdep name="libusb0"/>
 
 </package>
 
